@@ -1,0 +1,6 @@
+[
+    {"nombre":"Verano","stock":"Disponible"},
+    {"nombre":"Primavera","stock":"Disponible"},
+    {"nombre":"Otoño","stock":"No disponible"},
+    {"nombre":"Invierno","stock":"No disponible"}
+]
